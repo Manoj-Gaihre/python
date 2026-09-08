@@ -1,0 +1,21 @@
+student_id,name,city,subject,marks,attendance_percent,exam_date
+101,Aarav Sharma,Kathmandu,Python Programming,88,95.0,2026-05-02
+102,Bibek Thapa,Pokhara,Statistics,72,88.5,2026-05-03
+103,Chandni Rai,Biratnagar,Python Programming,45,70.0,2026-05-02
+104,Deepika Gurung,Kathmandu,Machine Learning,91,98.0,2026-05-04
+105,Esha KC,Lalitpur,Statistics,67,80.0,2026-05-03
+106,Faisal Khan,Butwal,Python Programming,58,65.0,2026-05-02
+107,Gita Adhikari,Pokhara,Machine Learning,39,55.0,2026-05-04
+108,Hari Bahadur,Kathmandu,SQL,82,90.0,2026-05-05
+109,Isha Shrestha,Lalitpur,Statistics,95,99.0,2026-05-03
+110,Jeevan Lama,Biratnagar,Python Programming,61,72.0,2026-05-02
+111,Kabita Basnet,Kathmandu,SQL,74,85.0,2026-05-05
+112,Lokesh Poudel,Pokhara,Machine Learning,48,60.0,2026-05-04
+113,Maya Tamang,Butwal,Python Programming,90,96.0,2026-05-02
+114,Nabin Karki,Kathmandu,Statistics,55,75.0,2026-05-03
+115,Oshin Magar,Lalitpur,SQL,68,82.0,2026-05-05
+116,Prakash Yadav,Biratnagar,Machine Learning,77,89.0,2026-05-04
+117,Queenie Rana,Pokhara,Python Programming,33,50.0,2026-05-02
+118,Rohit Bista,Kathmandu,Statistics,85,92.0,2026-05-03
+119,Sabina Ghale,Butwal,SQL,62,78.0,2026-05-05
+120,Tenzin Sherpa,Lalitpur,Machine Learning,93,97.0,2026-05-04
